@@ -1,0 +1,7 @@
+static/result/*.csv
+%.csv
+.idea/
+py3env/
+.env
+__pycache__
+aws_pem.pem
