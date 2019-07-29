@@ -1,4 +1,4 @@
-Flask web services for AWS scraping
+Flask web services for Amamzon scraping
 ===========
 
 The purpose of this project is to get data of Amazon product by ASINS.
